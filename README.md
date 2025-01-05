@@ -1,5 +1,13 @@
 # lite
-Gocroot Backend Lite Version
+Gocroot Backend Lite Version, Get starter:
+1. Download code from https://github.com/gocroot/lite 
+2. Ekstrak and run
+
+```sh
+go run .
+```
+Open your browser with URL http://127.0.0.1:8080
+
 
 ## Setup Server
 
