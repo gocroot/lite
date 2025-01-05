@@ -1,4 +1,4 @@
-# lite
+# Gocroot lite
 Gocroot Backend Lite Version, Get starter:
 1. Download code from https://github.com/gocroot/lite 
 2. Ekstrak and run
