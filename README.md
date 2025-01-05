@@ -21,10 +21,6 @@ Sign Up for a 100MB plan Free for life in [alwaysdata](https://www.alwaysdata.co
    Please set the environment variable in your system:
    ```sh
    MONGOSTRING=YOURMONGOSTRINGACCESS
-   WAQRKEYWORD=yourkeyword
-   WEBHOOKURL=https://yourappname.alwaysdata.net/whatsauth/webhook
-   WEBHOOKSECRET=yoursecret
-   WAPHONENUMBER=62811111
    ```
    In this menu, you will see an APPID in the title, shown as a number and a home folder used in the github secrets variable.
 3. Go to menu REmote Access>SSH>Modify, set a very strong password and tick enable password-based login
