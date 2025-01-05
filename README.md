@@ -26,3 +26,13 @@ Sign Up for a 100MB plan Free for life in [alwaysdata](https://www.alwaysdata.co
 
 
 ## Database
+
+The first thing to do is prepare a Mongo database using this template:
+1. Sign up for mongodb.com and create one instance of Data Services of mongodb.
+2. Download [MongoDB Compass](https://www.mongodb.com/try/download/compass), connect with your mongo string URI from mongodb.com
+3. Create database name iteung and collection reply  
+   ![image](https://github.com/gocroot/alwaysdata/assets/11188109/23ccddb7-bf42-42e2-baac-3d69f3a919f8)  
+4. Import [this json](https://whatsauth.my.id/webhook/iteung.reply.json) into reply collection.  
+   ![image](https://github.com/gocroot/alwaysdata/assets/11188109/7a807d96-430f-4421-95fe-1c6a528ba428)  
+   ![image](https://github.com/gocroot/alwaysdata/assets/11188109/fd785700-7347-4f4b-b3b9-34816fc7bc53)  
+   ![image](https://github.com/gocroot/alwaysdata/assets/11188109/ef236b4d-f8f9-42c6-91ff-f6a7d83be4fc)  
